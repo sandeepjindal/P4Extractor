@@ -5,6 +5,6 @@ Perforce(an enterprise version management system in which users connect to a sha
 On top of that I used Vaadin to provide GUI for the back end API's and used hivejdbc2 to retrieve data.
 
 Contributors:
-Sandeep Jindal(Lead)
+Sandeep Jindal(Lead)  
 Mukesh Kumawat
 
